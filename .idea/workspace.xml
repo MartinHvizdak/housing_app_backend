@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5e5ccd-d6f2-47d4-bbd6-f01269a71a5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_business_logic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_business_logic/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_business_logic/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_business_logic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/BlazorLogin.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/sqlFiles/housing_site_database_creation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/CreateHouseListingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/CreateHouseListingRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/CreateHouseListingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/CreateHouseListingResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/GetUserByIdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/GetUserByIdRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/GetUserByIdResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/GetUserByIdResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/HousingSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/HousingSiteDataAccessApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/ListingServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/Model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/Model/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/Model/HouseListing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/Model/ImageFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/UserServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/repository/AddressRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/repository/AreaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/repository/HouseListingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/repository/ImageFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/service/HousingListingImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/java/com/group5/service/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/proto/HousingSite.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/housing_site_data_access/src/test/java/com/group5/HousingSiteDataAccessApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IDZxigSDpRwWuBgcQYraiUCGKa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/marti/IdeaProjects/housing_site_backend/housing_site_data_access",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5e5ccd-d6f2-47d4-bbd6-f01269a71a5a" name="Changes" comment="" />
+      <created>1669718363241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669718363241</updated>
+      <workItem from="1669718364578" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
